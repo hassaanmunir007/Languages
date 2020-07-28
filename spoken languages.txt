@@ -1,3 +1,4 @@
 english
 urdu
 punjabi
+sindhi
