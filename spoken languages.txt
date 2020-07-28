@@ -2,3 +2,4 @@ english
 urdu
 punjabi
 sindhi
+balochi
